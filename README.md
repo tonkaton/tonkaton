@@ -30,18 +30,18 @@ Git • Docker • Postman
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name 1
+### 🔹 Botak Engine Speed with Loyalty Program and Maintenance Tracker Terintegrated.
 Production-level fullstack application with authentication and role management.  
 
-Tech: Laravel, React, MySQL  
+Tech: React, MySQL, Express.js, Sequalize.
 
-### 🔹 Project Name 2
-Modern responsive web app with clean UI and API integration.  
+### 🔹 Codiroom
+Modern responsive web Portofilio team with Brutalism UI.
 
-Tech: JavaScript, Tailwind  
+Tech: JavaScript, Tailwind, Typescript.  
 
-### 🔹 Project Name 3
-Backend API platform with validation and scalable architecture.  
+### 🔹 Istana Jaya Motor Car Showroom 
+php native fullstack and boostrap 5 with modern UI 
 
 Tech: Laravel, REST API  
 
@@ -65,9 +65,9 @@ Tech: Laravel, REST API
 
 ## 📫 Connect With Me
 
-LinkedIn: your-linkedin  
-Email: your-email  
-Portfolio: your-portfolio  
+Instagram : kaatonnn
+Email: tonkaqt28@gmail.com
+Portfolio: https://codiroom.netlify.app/
 
 ---
 
